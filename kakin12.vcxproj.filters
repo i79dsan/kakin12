@@ -39,7 +39,7 @@
     <ClCompile Include="Enum1.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="keisan.cpp">
+    <ClCompile Include="calculation.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
     <ClCompile Include="keisankansu.cpp">
@@ -49,6 +49,9 @@
       <Filter>ソース ファイル</Filter>
     </ClCompile>
     <ClCompile Include="kansumatome.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
