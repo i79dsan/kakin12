@@ -1,10 +1,10 @@
 #include<iostream>
-
+#include"Redef1.h"
 using namespace  std;
 
-extern double daikei(double a, double b, double c);
-extern double sankaku(double a, double b);
-extern double circle(double a, double b);
+//extern double daikei(double a, double b, double c);
+//extern double sankaku(double a, double b);
+//extern double circle(double a, double b);
 
 int main() {
 	int t = 4;
