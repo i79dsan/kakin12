@@ -9,3 +9,4 @@ double sankaku(double a, double b) {
 double circle(double a, double b) {
     return a * a * 3.14;
 }
+//henkou
