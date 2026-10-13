@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="kakin12.vcxproj" Id="ee1887c4-9220-4fae-8a16-849fefa8933c" />
+</Solution>
